@@ -11,7 +11,7 @@ Questo progetto è un semplice server Express che serve una pagina HTML. L'utent
 ## Tecnologie Utilizzate
 - Node.js
 - Express
-- Libreria `body-parser`
+- `body-parser`
 
 ## Installazione e Avvio Locale
 1. Clona il repository.
